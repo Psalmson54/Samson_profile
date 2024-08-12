@@ -38,7 +38,7 @@
                     <a href="#"><i class='bx bxl-instagram' ></i></a>
                     <a href="#"><i class='bx bxl-linkedin' ></i></a>
                 </div>
-                <a href="#" class="btn">Download Cv</a>
+                <a href="#" class="btn">Download CV</a>
         </div>z
         <div class="home-img">
             <img src="images/profile-picture.jpeg" alt="">
