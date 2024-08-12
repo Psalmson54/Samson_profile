@@ -1,0 +1,10 @@
+CREATE TABLE contact_me (
+    id INT (11) NOT NULL AUTO_INCREMENT,
+    fullname VARCHAR (30) NOT NULL,
+    email VARCHAR (50) NOT NULL,
+    phone_number INT (12) NOT NULL,
+    email_subject VARCHAR (30) NOT NULL,
+    messager VARCHAR (400) NOT NULL,
+    Created_at DATETIME NOT NULL DEFAULT CURRENT_TIME,
+    PRIMARY KEY (id)
+    );
